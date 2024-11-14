@@ -4,4 +4,8 @@ evaluation_basics/.env
 .idea/
 node_modules/
 **/*.db
-.vscode/
+vscode/
+my_solutions/s02e01/przesłuchania/
+my_solutions/s02e01/przesluchania.zip
+my_solutions/s01e03/corrected_test_data.json
+my_solutions/s01e03/test_data.json
